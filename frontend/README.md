@@ -26,7 +26,7 @@ cd ../backend && bun dev
 
 1. MetaMask atau Binance Web3 Wallet — jaringan **BSC Testnet** (ditambahkan otomatis oleh RainbowKit)
 2. **tBNB** untuk gas → https://www.bnbchain.org/en/testnet-faucet
-3. **RWD** untuk bikin bounty → https://faucet-rwd-web3jogja.netlify.app
+3. **RWD** untuk bikin bounty → https://faucet-rwd-papan-sayembara.netlify.app
 4. **WalletConnect projectId** (gratis) → https://cloud.reown.com — baru dibutuhkan di Bagian 2
 
 ## 3. Yang sudah disiapkan
