@@ -10,8 +10,8 @@ const bountyCreatedEvent = parseAbiItem(
 );
 
 // Deployment workshop (16 Agu 2026, verified) — salin dari SmartContract/broadcast/run-latest.json
-const FACTORY = "0xaec3e0ff766d953b69c714c149af1d5b8b19f0c4" as const;
-const START_BLOCK = 125_435_962; // block deploy factory
+const FACTORY = "0xdbc26ef2765912bf0b77e4a4ce0395e91089c698" as const;
+const START_BLOCK = 127113316; // block deploy factory
 
 export default createConfig({
   chains: {
